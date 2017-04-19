@@ -10,6 +10,10 @@ people and the planet:
 
 http://lcrs.fairdanmark.dk
 
+**THE DEVELOPMENT OF LCRS IS CURRENTLY TAKING PLACE IN THE EMBEDDED COMPONENT**
+
+See: https://github.com/fairdk/lcrs-embedded
+
 We hope that you find good use of it and that you
 report any problems or contribute with code on our website
 
